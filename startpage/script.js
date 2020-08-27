@@ -1,7 +1,7 @@
 /*Big thanks to u/Teiem1 from reddit for refactoring the old code!*/
 
 /*Change this to your liking*/
-var username = "grtcdr";
+var username = "TIMMAY!";
 /*A simple counter that is incremented when the search engines are cycled through*/
 let se = 3;
 
