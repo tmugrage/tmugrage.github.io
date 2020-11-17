@@ -49,7 +49,7 @@
         "https://www.prusaprinters.org",
         "https://www.w3schools.com/python/default.asp",
         "https://www.educative.io/courses/learn-python-from-scratch",
-        "https://github.com/tmugrage",
+        "https://github.com/",
         "https://gitlab.com/tmugrage",
         "https://fuhrmann.github.io/keypirinha-theme-builder/",
         "https://github.com/mbadolato/iTerm2-Color-Schemes#screenshots",
