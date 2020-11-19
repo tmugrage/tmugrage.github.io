@@ -49,24 +49,12 @@
         "https://www.prusaprinters.org",
         "https://www.w3schools.com/python/default.asp",
         "https://www.educative.io/courses/learn-python-from-scratch",
-        "https://github.com/tmugrage",
+        "https://github.com/",
         "https://gitlab.com/tmugrage",
         "https://fuhrmann.github.io/keypirinha-theme-builder/",
         "https://github.com/mbadolato/iTerm2-Color-Schemes#screenshots",
         "https://typing.com",
         "https://www.typingclub.com/  "
-      ]
-    },
-    {
-      "name": "mom estate",
-      "items": [
-        "https://account.mymedicare.gov",
-        "https://firstbankofcg.com/online",
-        "https://hotmail.com",
-        "https://hazlehurstnh.com",
-        "https://tools.usps.com/find-location.htm?location=1379247",
-        "https://www.libertygatax.com/taxes.html#/Record/A7509BEB84BF021FE8B5F95477209011",
-        "https://www.suzeorman.com/resources/record-keeping  "
       ]
     },
     {
@@ -97,6 +85,18 @@
         "https://www.wallpaperflare.com",
         "http://wallpaperswide.com/latest_wallpapers.html",
         "https://wallpaperaccess.com  "
+      ]
+    },
+    {
+      "name": "mom estate",
+      "items": [
+        "https://account.mymedicare.gov",
+        "https://firstbankofcg.com/online",
+        "https://hotmail.com",
+        "https://hazlehurstnh.com",
+        "https://tools.usps.com/find-location.htm?location=1379247",
+        "https://www.libertygatax.com/taxes.html#/Record/A7509BEB84BF021FE8B5F95477209011",
+        "https://www.suzeorman.com/resources/record-keeping  "
       ]
     }
   ],
