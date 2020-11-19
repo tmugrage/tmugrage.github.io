@@ -102,7 +102,7 @@
   ],
   "options": {
     "darkMode": false,
-    "searchEngine": "https://www.google.com/search",
+    "searchEngine": "https://duckduckgo.com/?q=search&kp=-1&kl=us-en",
     "faviconSize": "16",
     "faviconService": "https://www.google.com/s2/favicons?domain=",
     "linkTarget": "_blank",
