@@ -37,7 +37,7 @@
         "https://music.amazon.com",
         "https://www.audible.com/",
         "https://stories.audible.com/discovery",
-        "https://plex.tv/servers/shared_servers/accept?invite_token=arAb8ukLMPDkjZY91RxU",
+        "https://app.plex.tv/desktop#!/media/753a2e58396031ff40c09530ebf998637dd5a394/com.plexapp.plugins.library?key=%2Fhubs&pageType=hub",
         "https://pr.yusofyaghi.com  "
       ]
     },
