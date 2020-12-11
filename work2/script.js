@@ -1,7 +1,7 @@
 // Big thanks to u/Teiem1 from reddit for refactoring the old code!
 
 // Change this to your liking
-var username = "grtcdr";
+var username = "Timmay!";
 // Counter that is incremented when the search engines are cycled through
 let se = 3;
 
@@ -44,7 +44,11 @@ function displayTime(time)
 
 const determineGreet = hours => document.getElementById("greeting").innerText = `Good ${hours < 12 ? "Morning," : hours < 18 ? "Afternoon," : "Evening,"} ${username}!`;
 
-const search_engines = [{
+const search_engines = [  {
+    src: "cisco.svg",
+    placeholder: "Cisco OneSearch",
+    action: "https://onesearch.cisco.com/searchpage/v2?queryFilter="
+  }, {
   src: "ddg.svg",
   placeholder: "DuckDuckGo",
   action: "https://www.duckduckgo.com/"
