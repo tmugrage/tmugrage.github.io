@@ -27,6 +27,8 @@ a {
 p {
     color: #97cdfd;
     font-size: 35px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 a:visited, a:link, a:active {
     color: #bbb;
