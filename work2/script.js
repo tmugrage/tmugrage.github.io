@@ -51,7 +51,7 @@ const search_engines = [  {
   }, {
   src: "ddg.svg",
   placeholder: "DuckDuckGo",
-  action: "https://www.duckduckgo.com/"
+  action: "https://www.duckduckgo.com/?q="
 }, {
   src: "goog.svg",
   placeholder: "Google",
