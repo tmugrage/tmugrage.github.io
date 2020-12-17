@@ -47,7 +47,7 @@ const determineGreet = hours => document.getElementById("greeting").innerText = 
 const search_engines = [  {
     src: "cisco.svg",
     placeholder: "Cisco OneSearch",
-    action: "https://onesearch.cisco.com/searchpage/v2?q="
+    action: "https://onesearch.cisco.com/searchpage/v2?queryFilter="
   }, {
   src: "ddg.svg",
   placeholder: "DuckDuckGo",
