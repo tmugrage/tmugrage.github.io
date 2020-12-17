@@ -48,27 +48,27 @@ const search_engines = [  {
     src: "cisco.svg",
     placeholder: "Cisco OneSearch",
     action: "https://onesearch.cisco.com/searchpage/v2?queryFilter=",
-    query: "queryFilter"
+    name: "queryFilter"
   }, {
   src: "ddg.svg",
   placeholder: "DuckDuckGo",
   action: "https://www.duckduckgo.com/?q=",
-  query: "q"
+  name: "q"
 }, {
   src: "goog.svg",
   placeholder: "Google",
   action: "https://www.google.com/search?q=",
-  query: "q"
+  name: "q"
 },  {
   src: "reddit.svg",
   placeholder: "Reddit",
   action: "https://www.reddit.com/search?q=",
-  query: "q"
+  name: "q"
 },  {
   src: "youtube.svg",
   placeholder: "YouTube",
   action: "https://www.youtube.com/results?q=",
-  query: "q"
+  name: "q"
 }];
 
 const cycleSearchEngines = se => {
@@ -77,5 +77,5 @@ const cycleSearchEngines = se => {
   document.getElementById("se_icon").src = "icons/" + curData.src;
   document.getElementById("search").placeholder = "Searching with " + curData.placeholder;
   document.getElementById("search_eng_form").action = curData.action;
-  document.getElementById("se_query").query = curData.query;
+  document.getElementById("se_query").name = curData.name;
 };
