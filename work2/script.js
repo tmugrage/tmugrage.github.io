@@ -28,7 +28,9 @@ window.addEventListener('load', (event) => {
 
 document.getElementById("go_btn").addEventListener("click", function(){
   check_if_search_empty();
-  document.getElementById("search").name = "queryFilter";
+  if (document.getElementById("search").placeholder == "Cisco OneSearch") {
+    document.getElementById("search").name = "queryFilter";
+  }
 }); 
 
 // Called every 1000ms to update the time and display it
