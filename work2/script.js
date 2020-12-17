@@ -13,7 +13,7 @@ document.getElementById("se_button").addEventListener("click", function() {
 
 function check_if_search_empty() {
   //Do not allow searching if the user clicks "GO" when the search box is empty
-  if (document.forms["search_eng_form"]["se_query"].value == "") {
+  if (document.forms["search_eng_form"]["q"].value == "") {
     event.preventDefault();
   }
 } 
