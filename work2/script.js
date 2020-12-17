@@ -30,7 +30,7 @@ document.getElementById("go_btn").addEventListener("click", function(){
   check_if_search_empty();
   console.log("GO", document.getElementById("search").placeholder);
   if (document.getElementById("search").placeholder == "Cisco OneSearch") {
-    console.log("Hello")
+    console.log("Hello");
     document.getElementById("search").name = "queryFilter";
   }
 }); 
