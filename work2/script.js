@@ -28,6 +28,7 @@ window.addEventListener('load', (event) => {
 
 document.getElementById("go_btn").addEventListener("click", function(){
   check_if_search_empty();
+  console.log(document.getElementById("go_btn").addEventListener);
 }); 
 
 // Called every 1000ms to update the time and display it
@@ -72,5 +73,5 @@ const cycleSearchEngines = se => {
   document.getElementById("se_icon").src = "icons/" + curData.src;
   document.getElementById("search").placeholder = "Searching with " + curData.placeholder;
   document.getElementById("search_eng_form").action = curData.action;
-  console.log(document.getElementById("search_eng_form").action);
+  console.log("act", document.getElementById("search_eng_form").action);
 };
