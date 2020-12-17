@@ -28,7 +28,7 @@ window.addEventListener('load', (event) => {
 
 document.getElementById("go_btn").addEventListener("click", function(){
   check_if_search_empty();
-  console.log(document.getElementById("go_btn").addEventListener);
+  console.log("b4", document.getElementById("search_eng_form").action);
 }); 
 
 // Called every 1000ms to update the time and display it
