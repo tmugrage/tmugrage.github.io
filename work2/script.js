@@ -28,6 +28,7 @@ window.addEventListener('load', (event) => {
 
 document.getElementById("go_btn").addEventListener("click", function(){
   check_if_search_empty();
+  console.log("GO", document.getElementById("search").placeholder);
   if (document.getElementById("search").placeholder == "Cisco OneSearch") {
     document.getElementById("search").name = "queryFilter";
   }
