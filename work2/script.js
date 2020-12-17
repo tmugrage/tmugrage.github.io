@@ -45,30 +45,25 @@ function displayTime(time)
 const determineGreet = hours => document.getElementById("greeting").innerText = `Good ${hours < 12 ? "Morning," : hours < 18 ? "Afternoon," : "Evening,"} ${username}!`;
 
 const search_engines = [  {
-    src: "cisco.svg",
-    placeholder: "Cisco OneSearch",
-    action: "https://onesearch.cisco.com/searchpage/v2?queryFilter=",
-    name: "queryFilter"
-  }, {
+  src: "cisco.svg",
+  placeholder: "Cisco OneSearch",
+  action: "https://onesearch.cisco.com/searchpage/v2?queryFilter="
+}, {
   src: "ddg.svg",
   placeholder: "DuckDuckGo",
-  action: "https://www.duckduckgo.com/?q=",
-  name: "q"
+  action: "https://www.duckduckgo.com/?q="
 }, {
   src: "goog.svg",
   placeholder: "Google",
-  action: "https://www.google.com/search?q=",
-  name: "q"
+  action: "https://www.google.com/search?q="
 },  {
   src: "reddit.svg",
   placeholder: "Reddit",
-  action: "https://www.reddit.com/search?q=",
-  name: "q"
+  action: "https://www.reddit.com/search?q="
 },  {
   src: "youtube.svg",
   placeholder: "YouTube",
-  action: "https://www.youtube.com/results?q=",
-  name: "q"
+  action: "https://www.youtube.com/results?q="
 }];
 
 const cycleSearchEngines = se => {
@@ -77,5 +72,5 @@ const cycleSearchEngines = se => {
   document.getElementById("se_icon").src = "icons/" + curData.src;
   document.getElementById("search").placeholder = "Searching with " + curData.placeholder;
   document.getElementById("search_eng_form").action = curData.action;
-  document.getElementById("se_query").name = curData.name;
+  console.log(document.getElementById("search_eng_form").action);
 };
