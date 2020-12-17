@@ -33,7 +33,8 @@ document.getElementById("go_btn").addEventListener("click", function(){
   if (document.getElementById("search").placeholder == "Searching with Cisco OneSearch") {
     console.log("Hello");
     document.getElementById("search").name = "queryFilter";
-  } else {document.getElementById("search").name = "q";
+  } else {
+    document.getElementById("search").name = "q";
   }
 }); 
 
