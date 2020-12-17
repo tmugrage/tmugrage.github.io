@@ -3,7 +3,7 @@
 // Change this to your liking
 var username = "fellow Cisconian";
 // Counter that is incremented when the search engines are cycled through
-let se = 3;
+let se = 4;
 
 // Listens for click event in se_button, once clicked, se increments by one and cycleSearchEngines() is called to update the icon, placeholder, and form action
 document.getElementById("se_button").addEventListener("click", function() {
