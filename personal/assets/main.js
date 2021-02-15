@@ -22,7 +22,7 @@
         "https://tweetdeck.twitter.com",
         "https://www.facebook.com",
         "https://www.linkedin.com/feed",
-        "https://web.whatsapp.com"
+        "https://www.tvtime.com/en"
       ]
     },
     {
@@ -102,7 +102,7 @@
     }
   ],
   "options": {
-    "darkMode": true,
+    "darkMode": false,
     "searchEngine": "https://duckduckgo.com/?q=search&kp=-1&kl=us-en",
     "faviconSize": "16",
     "faviconService": "https://www.google.com/s2/favicons?domain=",
