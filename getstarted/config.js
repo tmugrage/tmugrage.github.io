@@ -8,13 +8,17 @@ var searchEngine = "Yahoo";
 // Cards
 var cards = [
 	{
-		name: "General",
+		name: "Daily",
 		bookmarks: {
-			"google": "aaa",
-			"dirive": "aaa",
-			"maps": "aaa",
-			"photos": "aaa",
-			"mega": "aaa"
+			"weather": "https://www.wunderground.com/weather/us/oh/new-carlisle/KOHNEWCA6",
+			"gmail": "https://mail.google.com/mail/u/0/#inbox",
+			"feedly": "https://feedly.com/browse",
+			"proton mail": "https://mail.protonmail.com/inbox",
+			"amazon": "https://smile.amazon.com",
+			"MugrageNet": "http://192.168.33.100/",
+			"ooma": "https://my.ooma.com/phone/voicemail",
+			"htmltetris": "https://htmltetris.com",
+			"HSA": "https://my.healthequity.com/Member/MemberTransactions.aspx"
 		}
 	},
 	{
