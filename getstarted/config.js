@@ -17,7 +17,7 @@ var cards = [
 			"amazon": "https://smile.amazon.com",
 			"MugrageNet": "http://192.168.33.100/",
 			"ooma": "https://my.ooma.com/phone/voicemail",
-			"htmltetris": "https://htmltetris.com",
+			"htmltetris": "http://htmltetris.com",
 			"HSA": "https://my.healthequity.com/Member/MemberTransactions.aspx"
 		}
 	},
