@@ -1,9 +1,9 @@
 // Username displayed in greeting.
-var userName = "Faizan";
+var userName = "Timmay!";
 
 // Default Searchengine
 // Available: Google DuckDuckGo Bing Yahoo
-var searchEngine = "Yahoo";
+var searchEngine = "DuckDuckGo";
 
 // Cards
 var cards = [
@@ -22,13 +22,14 @@ var cards = [
 		}
 	},
 	{
-		name: "Tech",
+		name: "social",
 		bookmarks: {
-			"github": "aaa",
-			"freenode": "aaa",
-			"stackoverflow": "aaa",
-			"github": "aaa",
-			"freenode": "aaa"
+			"instagram": "https://instagram.com",
+			"reddit": "https://www.reddit.com",
+			"twitter": "https://tweetdeck.twitter.com",
+			"facebook": "https://www.facebook.com",
+			"linkedin": "https://www.linkedin.com/feed",
+			"tvtime": "https://www.tvtime.com/en"
 		}
 	},
 	{
