@@ -33,23 +33,25 @@ var cards = [
 		}
 	},
 	{
-		name: "Work",
+		name: "entertainment",
 		bookmarks: {
-			"subreddit": "aaa",
-			"youtube": "aaa",
-			"spotify": "aaa",
-			"amazon": "aaa",
-			"dummysite": "aaa"
+			"github audio": "https://github.audio/",
+			"spotify": "https://open.spotify.com/collection/artists",
+			"amazon music": "https://music.amazon.com",
+			"audible": "https://www.audible.com/",
+			"audible-free": "https://stories.audible.com/discovery",
+			"Yusof Plex": "https://app.plex.tv/desktop#!/media/753a2e58396031ff40c09530ebf998637dd5a394/com.plexapp.plugins.library?key=%2Fhubs&pageType=hub",
+			"Yusof PR": "https://pr.yusofyaghi.com"
 		}
 	},
 	{
-		name: "Social",
+		name: "hackaday",
 		bookmarks: {
-			"youtube": "https://www.youtube.com",
-			"twitter": "https://twitter.com",
-			"imgur": "https://imgur.com/",
-			"facebook": "https://www.facebook.com",
-			"reddit": "https://www.reddit.com"
+			"onshape": "https://cad.onshape.com",
+			"thingiverse": "https://www.thingiverse.com",
+			"github": "https://github.com/",
+			"gitlab": "https://gitlab.com/tmugrage",
+			"monkeytype": "https://www.monkeytype.com"
 		}
 	}
 ]
