@@ -43,7 +43,7 @@ var cards = [
 		}
 	},
 	{
-		name: "entertainment",
+		name: "video etc",
 		bookmarks: {
 			"youtube": "https://www.youtube.com",
 			"htmltetris": "http://htmltetris.com",
