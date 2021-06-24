@@ -17,7 +17,6 @@ var cards = [
 			"amazon": "https://smile.amazon.com",
 			"MugrageNet": "http://192.168.33.100/",
 			"ooma": "https://my.ooma.com/phone/voicemail",
-			"htmltetris": "http://htmltetris.com",
 			"HSA": "https://my.healthequity.com/Member/MemberTransactions.aspx"
 		}
 	},
@@ -35,6 +34,11 @@ var cards = [
 	{
 		name: "entertainment",
 		bookmarks: {
+			"youtube": "https://www.youtube.com",
+			"youtube music": "https://music.youtube.com"
+			"focusmusic": "https://focusmusic.fm/"
+			"generative music": "https://generative.fm/"
+			"htmltetris": "http://htmltetris.com",
 			"github audio": "https://github.audio/",
 			"spotify": "https://open.spotify.com/collection/artists",
 			"amazon music": "https://music.amazon.com",
@@ -52,6 +56,28 @@ var cards = [
 			"github": "https://github.com/",
 			"gitlab": "https://gitlab.com/tmugrage",
 			"monkeytype": "https://www.monkeytype.com"
+		}
+	},
+	{
+		name: "stationery",
+		bookmarks: {
+			"penaddict": "https://www.penaddict.com",
+			"karaskustoms": "http://karaskustoms.com",
+			"jetpens": "https://www.jetpens.com",
+			"d&m leather": "https://dmleatherstudio.com/collections",
+			"onestarleather": "http://onestarleathergoods.com",
+			"growleyleather": "https://www.growleyleather.com"
+		}
+	}
+	{
+		name: "deskmods",
+		bookmarks: {
+			"wallpaper access": "https://wallpaperaccess.com",
+			"simple desktops": "http://simpledesktops.com",
+			"pexels": "https://www.pexels.com",
+			"unsplash": "https://www.unsplash.com",
+			"wallpaperscraft": "https://wallpaperscraft.com",
+			"wallpaperflare": "https://www.wallpaperflare.com/"
 		}
 	}
 ]
