@@ -32,16 +32,21 @@ var cards = [
 		}
 	},
 	{
+		name: "music",
+		bookmarks: {
+			"youtube music": "https://music.youtube.com",
+			"amazon music": "https://music.amazon.com",
+			"spotify": "https://open.spotify.com/collection/artists",
+			"focusmusic": "https://focusmusic.fm/",
+			"generative music": "https://generative.fm/",
+			"github audio": "https://github.audio/"
+		}
+	},
+	{
 		name: "entertainment",
 		bookmarks: {
 			"youtube": "https://www.youtube.com",
-			"youtube music": "https://music.youtube.com",
-			"focusmusic": "https://focusmusic.fm/",
-			"generative music": "https://generative.fm/",
 			"htmltetris": "http://htmltetris.com",
-			"github audio": "https://github.audio/",
-			"spotify": "https://open.spotify.com/collection/artists",
-			"amazon music": "https://music.amazon.com",
 			"audible": "https://www.audible.com/",
 			"audible-free": "https://stories.audible.com/discovery",
 			"Yusof Plex": "https://app.plex.tv/desktop#!/media/753a2e58396031ff40c09530ebf998637dd5a394/com.plexapp.plugins.library?key=%2Fhubs&pageType=hub",
