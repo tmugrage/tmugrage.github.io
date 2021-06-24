@@ -8,7 +8,7 @@ var searchEngine = "DuckDuckGo";
 // Cards
 var cards = [
 	{
-		name: "Daily",
+		name: "daily",
 		bookmarks: {
 			"weather": "https://www.wunderground.com/weather/us/oh/new-carlisle/KOHNEWCA6",
 			"gmail": "https://mail.google.com/mail/u/0/#inbox",
@@ -35,9 +35,9 @@ var cards = [
 		name: "entertainment",
 		bookmarks: {
 			"youtube": "https://www.youtube.com",
-			"youtube music": "https://music.youtube.com"
-			"focusmusic": "https://focusmusic.fm/"
-			"generative music": "https://generative.fm/"
+			"youtube music": "https://music.youtube.com",
+			"focusmusic": "https://focusmusic.fm/",
+			"generative music": "https://generative.fm/",
 			"htmltetris": "http://htmltetris.com",
 			"github audio": "https://github.audio/",
 			"spotify": "https://open.spotify.com/collection/artists",
@@ -68,7 +68,7 @@ var cards = [
 			"onestarleather": "http://onestarleathergoods.com",
 			"growleyleather": "https://www.growleyleather.com"
 		}
-	}
+	},
 	{
 		name: "deskmods",
 		bookmarks: {
