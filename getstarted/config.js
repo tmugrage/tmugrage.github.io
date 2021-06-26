@@ -32,7 +32,7 @@ var cards = [
 		}
 	},
 	{
-		name: "music",
+		name: "music...",
 		bookmarks: {
 			"youtube music": "https://music.youtube.com",
 			"amazon music": "https://music.amazon.com",
@@ -43,7 +43,7 @@ var cards = [
 		}
 	},
 	{
-		name: "video etc",
+		name: "video...",
 		bookmarks: {
 			"youtube": "https://www.youtube.com",
 			"htmltetris": "http://htmltetris.com",
