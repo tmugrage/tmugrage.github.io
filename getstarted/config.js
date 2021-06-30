@@ -38,7 +38,7 @@ var cards = [
 			"amazon music": "https://music.amazon.com",
 			"spotify": "https://open.spotify.com/collection/artists",
 			"focusmusic": "https://focusmusic.fm/",
-			"generative music": "https://generative.fm/",
+			"gen music": "https://generative.fm/",
 			"github audio": "https://github.audio/"
 		}
 	},
@@ -48,7 +48,6 @@ var cards = [
 			"youtube": "https://www.youtube.com",
 			"htmltetris": "http://htmltetris.com",
 			"audible": "https://www.audible.com/",
-			"audible-free": "https://stories.audible.com/discovery",
 			"Yusof Plex": "https://app.plex.tv/desktop#!/media/753a2e58396031ff40c09530ebf998637dd5a394/com.plexapp.plugins.library?key=%2Fhubs&pageType=hub",
 			"Yusof PR": "https://pr.yusofyaghi.com"
 		}
