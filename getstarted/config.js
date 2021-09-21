@@ -12,6 +12,7 @@ var cards = [
 		bookmarks: {
 			"weather": "https://www.wunderground.com/weather/us/oh/new-carlisle/KOHNEWCA6",
 			"gmail": "https://mail.google.com/mail/u/0/#inbox",
+			"chat": "https://mail.google.com/chat/u/0/",
 			"feedly": "https://feedly.com/browse",
 			"proton mail": "https://mail.protonmail.com/inbox",
 			"amazon": "https://smile.amazon.com",
