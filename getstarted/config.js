@@ -12,7 +12,6 @@ var cards = [
 		bookmarks: {
 			"weather": "https://www.wunderground.com/weather/us/oh/new-carlisle/KOHNEWCA6",
 			"gmail": "https://mail.google.com/mail/u/0/#inbox",
-			"chat": "https://mail.google.com/chat/u/0/",
 			"feedly": "https://feedly.com/browse",
 			"proton mail": "https://mail.protonmail.com/inbox",
 			"amazon": "https://smile.amazon.com",
@@ -38,7 +37,6 @@ var cards = [
 			"youtube music": "https://music.youtube.com",
 			"amazon music": "https://music.amazon.com",
 			"spotify": "https://open.spotify.com/collection/artists",
-			"focusmusic": "https://focusmusic.fm/",
 			"gen music": "https://generative.fm/",
 			"github audio": "https://github.audio/"
 		}
@@ -60,7 +58,8 @@ var cards = [
 			"thingiverse": "https://www.thingiverse.com",
 			"github": "https://github.com/",
 			"gitlab": "https://gitlab.com/tmugrage",
-			"monkeytype": "https://www.monkeytype.com"
+			"monkeytype": "https://www.monkeytype.com",
+			"pling": "https://pling.com"
 		}
 	},
 	{
