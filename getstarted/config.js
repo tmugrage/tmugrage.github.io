@@ -11,9 +11,6 @@ var cards = [
 		name: "daily",
 		bookmarks: {
 			"weather": "https://www.wunderground.com/weather/us/oh/new-carlisle/KOHNEWCA6",
-			"gmail": "https://mail.google.com/mail/u/0/#inbox",
-			"feedly": "https://feedly.com/browse",
-			"proton mail": "https://mail.protonmail.com/inbox",
 			"amazon": "https://smile.amazon.com",
 			"MugrageNet": "http://192.168.33.100/",
 			"ooma": "https://my.ooma.com/phone/voicemail",
@@ -23,10 +20,10 @@ var cards = [
 	{
 		name: "social",
 		bookmarks: {
-			"instagram": "https://instagram.com",
+			"gmail": "https://mail.google.com/mail/u/0/#inbox",
+			"feedly": "https://feedly.com/browse",
+			"proton mail": "https://mail.protonmail.com/inbox",
 			"reddit": "https://www.reddit.com",
-			"twitter": "https://tweetdeck.twitter.com",
-			"facebook": "https://www.facebook.com",
 			"linkedin": "https://www.linkedin.com/feed",
 			"tvtime": "https://www.tvtime.com/en"
 		}
