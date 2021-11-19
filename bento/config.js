@@ -40,9 +40,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'gmail',
+      icon: 'mail',
+      link: 'https://gmail.com/',
     },
     {
       id: '2',
@@ -52,9 +52,15 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'Reddit',
+      icon: 'bookmark',
+      link: 'https://reddit.com',
+    },
+    {
+      id: '4',
+      name: 'Linkedin',
       icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://linkedin.com',
     },
     {
       id: '4',
