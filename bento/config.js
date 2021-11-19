@@ -82,7 +82,7 @@ const CONFIG = {
     },
     {
       id: '7',
-      name: 'Odysee',
+      name: 'Odyseer',
       icon: 'youtube',
       link: 'https://odysee.com/',
     },
@@ -112,15 +112,15 @@ const CONFIG = {
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Rock',
+        name: 'Rocttk',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Rock',
+        name: 'Roctk',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Rock',
+        name: 'Rorck',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
     ],
