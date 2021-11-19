@@ -123,6 +123,14 @@ const CONFIG = {
         name: 'Rorck',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
+      {
+        name: 'Roctk',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+      },
+      {
+        name: 'Rorck',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+      },
     ],
     secondList: [
       {
