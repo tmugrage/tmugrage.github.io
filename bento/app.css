@@ -246,6 +246,19 @@ body {
   grid-row: 2;
   grid-column: 3;
 }
+.buttonLink__link-7 {
+  grid-row: 3;
+  grid-column: 1;
+}
+.buttonLink__link-8 {
+  grid-row: 3;
+  grid-column: 2;
+}
+.buttonLink__link-9 {
+  grid-row: 3;
+  grid-column: 3;
+}
+
 .buttonLink__link:hover {
   background-color: var(--accent);
 }
@@ -261,11 +274,11 @@ body {
 
 .list__1 {
   grid-column: 3;
-  grid-row: 3 / span 2;
+  grid-row: 3 / span 3;
 }
 .list__2 {
   grid-column: 4;
-  grid-row: 3 / span 2;
+  grid-row: 3 / span 3;
 }
 .list__head {
   margin-top: 3vh;
