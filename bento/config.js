@@ -128,7 +128,7 @@ const CONFIG = {
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Rorckk',
+        name: 'Rorpckk',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
     ],
