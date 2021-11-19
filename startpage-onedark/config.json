@@ -1,0 +1,65 @@
+{
+  "squares": [
+    { "name": "media",
+      "color": "#61afef",
+      "links": [
+        { "name": "Spotify", "url": "https://open.spotify.com/" },
+        { "name": "YoutubeMusic", "url": "https://music.youtube.com/" },
+        { "name": "Netflix", "url": "https://netflix.com" },
+        { "name": "Youtube", "url": "https://youtube.com" }
+      ]
+    },
+    { "name": "work",
+      "color": "#e06c75",
+      "links": [
+        { "name": "Github", "url": "https://github.com" },
+        { "name": "Heroku", "url": "http://heroku.com/" },
+        { "name": "localhost", "url": "http://localhost:8000/" }
+      ]
+    },
+    { "name": "social",
+      "color": "#e5c07b",
+      "links": [
+        { "name": "Reddit", "url": "https://reddit.com" },
+        { "name": "Unixporn Love", "url": "https://deepjyoti30.github.io/unixporn-love/" },
+        { "name": "r/unixporn", "url": "https://www.reddit.com/r/unixporn/" },
+        { "name": "r/mk", "url": "https://www.reddit.com/r/MechanicalKeyboards/" }
+      ]
+    },
+    {
+      "name": "Others",
+      "color": "#98c379",
+      "links": [
+        {"name": "Material Colors", "url": "http://materialuicolors.co/"},
+        {"name": "Gmail", "url": "http://gmail.com/"},
+        {"name": "neo4j Local", "url": "http://localhost:7474/"},
+        {"name": "rarbg", "url": "http://rarbg.to"}
+      ]
+    }
+  ],
+  "searchEngine":"Brave",
+  "user": "Pirate",
+  "disableMessage": false,
+  "disableDate": false,
+  "disableSearchBar": false,
+  "disable24Hour": true,
+  "disableWeather": false,
+  "timeZone": "Africa/Cairo",
+  "weatherConf": {
+    "location": "Giza Egypt",
+    "unit": "cel"
+  },
+  "settingsIcon": false,
+  "style": {
+    "backgroundColor": "#282c34",
+    "messageColor": "#fff",
+    "dateColor": "#c8ccd4",
+    "lineColor": "#fff",
+    "weatherColor": "#c8ccd4",
+    "searchColor": "#c8ccd4",
+    "searchBackgroundColor": "#1e222a",
+    "squareColor": "#abb2bf",
+    "squareBackgroundColor": "#1e222a",
+    "autocompleteHighlightBackgroundColor": "#3e4451"
+  }
+}
