@@ -29,7 +29,7 @@ a {
 font-family: roboto;
 text-transform: lowercase;
 color: #9d9d9d;
-font-size: 0.6em;
+font-size: 2em;
 text-decoration: none;
 display: block;
 margin-bottom: 2px;
@@ -51,7 +51,7 @@ a:hover {
 
 .tag p {
 	font-family: roboto;
-	font-size: 0.6em;
+	font-size: 1.6em;
 	text-transform: lowercase;
 	color: #ff8000;	
 }
