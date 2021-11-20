@@ -10,7 +10,7 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	//font-style: italic;
+	font-style: italic;
 	font-size: 1.0em;
 	color: #ff8000;
 	font-family: roboto;
@@ -74,7 +74,7 @@ a:hover {
 	padding-left: 50px;
 	padding-right: 50px;
 	padding-bottom: 75px;
-	// border-bottom: 2px dotted #ff8000;
+	border-bottom: 2px dotted #ff8000;
 	
 }
 
