@@ -11,7 +11,7 @@ html {
 
 h1, h2, h3, h4, h5, h6 {
 	font-style: italic;
-	font-size: 1.5em;
+	font-size: 1.0em;
 	color: #ff8000;
 	font-family: roboto;
 	text-transform: uppercase;
@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
 font-family: roboto;
 color: #9d9d9d;
-font-size: 1.5em;
+font-size: 1.0em;
 text-decoration: none;
 }
 
@@ -29,7 +29,7 @@ a {
 font-family: roboto;
 text-transform: lowercase;
 color: #9d9d9d;
-font-size: 1.5em;
+font-size: 1.0em;
 text-decoration: none;
 display: block;
 margin-bottom: 2px;
@@ -51,7 +51,7 @@ a:hover {
 
 .tag p {
 	font-family: roboto;
-	font-size: 1.6em;
+	font-size: 1.0em;
 	text-transform: lowercase;
 	color: #ff8000;	
 }
@@ -61,7 +61,7 @@ a:hover {
 	
 	
 	height: 450px;
-	width: 800px;
+	width: 75%;
 	background: #2e2e2e;
 	position: relative;
 	top:0;
