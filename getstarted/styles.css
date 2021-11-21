@@ -74,7 +74,7 @@ body {
 	width: 100%;
 	height: 100vh;
 	margin: auto;
-    padding-top: 15vh;
+    padding-top: 10vh;
 	display: flex;
 	align-items: center;
 	justify-content: flex-start;
@@ -106,7 +106,7 @@ body {
 	width: 100%;
 	padding: 0.75em 0.5em 0.75em 1em;
 	background-color: transparent;
-	font-size: 1rem;
+	font-size: .75em;
 	text-align: left;
 }
 
@@ -140,7 +140,7 @@ button#clear-field img {
 /* Link Table */
 .table-container {
 	width: 90%;
-	margin: 0 5%;
+	margin: 0 2%;
 	display: flex;
 	flex-direction: column;
 	align-items: space-between;
@@ -194,9 +194,10 @@ button#clear-field img {
 
 .content > a {
 	display: flex;
+	font-size: .8em;
 	justify-content: center;
 	align-items: center;
-	padding: 0.5em;
+	padding: 0.25em;
 	cursor: pointer;
 }
 
@@ -231,8 +232,8 @@ button#clear-field img {
 	.tab, .tab.active[data-tab^="tab"] {
 		width: 24%;
 		margin: 0 1%;
-		padding:0.5em;
-		font-size: 1.5em;
+		padding:0.25em;
+		font-size: 1.0em;
 		background-color: var(--secondaryBg);
 		border-radius: 0.75rem 0.75rem 0 0;
 	}
