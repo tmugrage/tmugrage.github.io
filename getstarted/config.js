@@ -14,7 +14,7 @@ var cards = [
 			"amazon": "https://smile.amazon.com",
 			"MugrageNet": "http://192.168.33.100/",
 			"ooma": "https://my.ooma.com/phone/voicemail",
-			"HSA": "https://my.healthequity.com/Member/MemberTransactions.aspx",
+			"HSA": "https://my.healthequity.com/",
 			"Ins Portal": "http://usbenefitsportal.cisco.com"
 		}
 	},
@@ -45,7 +45,7 @@ var cards = [
 			"youtube": "https://www.youtube.com",
 			"htmltetris": "http://htmltetris.com",
 			"audible": "https://www.audible.com/",
-			"Yusof Plex": "https://app.plex.tv/desktop#!/media/753a2e58396031ff40c09530ebf998637dd5a394/com.plexapp.plugins.library?key=%2Fhubs&pageType=hub",
+			"Yusof Plex": "https://app.plex.tv/",
 			"Yusof PR": "https://pr.yusofyaghi.com"
 		}
 	},
