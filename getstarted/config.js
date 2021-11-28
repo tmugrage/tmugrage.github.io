@@ -10,10 +10,7 @@ var cards = [
 	{
 		name: "daily",
 		bookmarks: {
-			"weather": "https://www.wunderground.com/weather/us/oh/new-carlisle/KOHNEWCA6",
-			"gmail": "https://mail.google.com/mail/u/0/#inbox",
-			"feedly": "https://feedly.com/browse",
-			"proton mail": "https://mail.protonmail.com/inbox",
+			"weather": "https://www.accuweather.com/en/us/new-carlisle/45344/current-weather/2086491",
 			"amazon": "https://smile.amazon.com",
 			"MugrageNet": "http://192.168.33.100/",
 			"ooma": "https://my.ooma.com/phone/voicemail",
@@ -24,10 +21,10 @@ var cards = [
 	{
 		name: "social",
 		bookmarks: {
-			"instagram": "https://instagram.com",
+			"gmail": "https://mail.google.com/mail/u/0/#inbox",
+			"feedly": "https://feedly.com/browse",
+			"proton mail": "https://mail.protonmail.com/inbox",
 			"reddit": "https://www.reddit.com",
-			"twitter": "https://tweetdeck.twitter.com",
-			"facebook": "https://www.facebook.com",
 			"linkedin": "https://www.linkedin.com/feed",
 			"tvtime": "https://www.tvtime.com/en"
 		}
@@ -38,7 +35,6 @@ var cards = [
 			"youtube music": "https://music.youtube.com",
 			"amazon music": "https://music.amazon.com",
 			"spotify": "https://open.spotify.com/collection/artists",
-			"focusmusic": "https://focusmusic.fm/",
 			"gen music": "https://generative.fm/",
 			"github audio": "https://github.audio/"
 		}
@@ -60,7 +56,8 @@ var cards = [
 			"thingiverse": "https://www.thingiverse.com",
 			"github": "https://github.com/",
 			"gitlab": "https://gitlab.com/tmugrage",
-			"monkeytype": "https://www.monkeytype.com"
+			"monkeytype": "https://www.monkeytype.com",
+			"pling": "https://pling.com"
 		}
 	},
 	{
