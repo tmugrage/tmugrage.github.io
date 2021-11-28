@@ -15,7 +15,7 @@ var cards = [
 			"MugrageNet": "http://192.168.33.100/",
 			"ooma": "https://my.ooma.com/phone/voicemail",
 			"HSA": "https://my.healthequity.com/Member/MemberTransactions.aspx",
-			"Ins Portal": "https://usbenefitsportal.cisco.com"
+			"Ins Portal": "http://usbenefitsportal.cisco.com"
 		}
 	},
 	{
