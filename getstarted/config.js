@@ -25,6 +25,7 @@ var cards = [
 			"feedly": "https://feedly.com/browse",
 			"proton mail": "https://mail.protonmail.com/inbox",
 			"reddit": "https://www.reddit.com",
+			"noc.social": "https://noc.social",
 			"linkedin": "https://www.linkedin.com/feed",
 			"tvtime": "https://www.tvtime.com/en"
 		}
