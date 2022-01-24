@@ -67,6 +67,7 @@ var cards = [
 			"penaddict": "https://www.penaddict.com",
 			"karaskustoms": "http://karaskustoms.com",
 			"jetpens": "https://www.jetpens.com",
+			"Yoseka Stationery": "https://yosekastationery.com",
 			"d&m leather": "https://dmleatherstudio.com/collections",
 			"onestarleather": "http://onestarleathergoods.com",
 			"growleyleather": "https://www.growleyleather.com"
