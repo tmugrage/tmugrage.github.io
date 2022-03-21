@@ -154,6 +154,14 @@ const CONFIG = {
 					name: 'Rock',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
+				{
+					name: 'Rock3',
+					link: 'https://www.youtube.com/w4atch?v=dQw4w9WgXcQ',
+				},
+				{
+					name: 'Rock4',
+					link: 'https://www.youtube.c4om/watch?v=dQw4w9WgXcQ',
+				},
 			],
 		},
 		{
