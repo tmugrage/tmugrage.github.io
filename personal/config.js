@@ -31,23 +31,16 @@ var cards = [
 		}
 	},
 	{
-		name: "music...",
+		name: "music & video",
 		bookmarks: {
 			"youtube music": "https://music.youtube.com",
-			"amazon music": "https://music.amazon.com",
-			"spotify": "https://open.spotify.com/collection/artists",
 			"gen music": "https://generative.fm/",
-			"github audio": "https://github.audio/"
-		}
-	},
-	{
-		name: "video...",
-		bookmarks: {
-			"youtube": "https://www.youtube.com",
-			"htmltetris": "http://htmltetris.com",
+			"github audio": "https://github.audio/",
 			"audible": "https://www.audible.com/",
+			"youtube": "https://www.youtube.com",
 			"Yusof Plex": "https://app.plex.tv/",
-			"Yusof PR": "https://pr.yusofyaghi.com"
+			"Yusof PR": "https://pr.yusofyaghi.com",
+			"htmltetris": "http://htmltetris.com"
 		}
 	},
 	{
