@@ -49,12 +49,10 @@ var cards = [
 			"onshape": "https://cad.onshape.com",
 			"thingiverse": "https://www.thingiverse.com",
 			"github": "https://github.com/",
-			"gitlab": "https://gitlab.com/tmugrage",
 			"pling": "https://pling.com",
 			"wallpaper access": "https://wallpaperaccess.com",
 			"simple desktops": "http://simpledesktops.com",
 			"pexels": "https://www.pexels.com",
-			"wallpaperscraft": "https://wallpaperscraft.com",
 			"wallpaperflare": "https://www.wallpaperflare.com/"
 		}
 	},
