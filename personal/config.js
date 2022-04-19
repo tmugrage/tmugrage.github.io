@@ -44,14 +44,18 @@ var cards = [
 		}
 	},
 	{
-		name: "hackaday",
+		name: "hacks & mods",
 		bookmarks: {
 			"onshape": "https://cad.onshape.com",
 			"thingiverse": "https://www.thingiverse.com",
 			"github": "https://github.com/",
 			"gitlab": "https://gitlab.com/tmugrage",
-			"monkeytype": "https://www.monkeytype.com",
-			"pling": "https://pling.com"
+			"pling": "https://pling.com",
+			"wallpaper access": "https://wallpaperaccess.com",
+			"simple desktops": "http://simpledesktops.com",
+			"pexels": "https://www.pexels.com",
+			"wallpaperscraft": "https://wallpaperscraft.com",
+			"wallpaperflare": "https://www.wallpaperflare.com/"
 		}
 	},
 	{
@@ -64,17 +68,6 @@ var cards = [
 			"d&m leather": "https://dmleatherstudio.com/collections",
 			"onestarleather": "http://onestarleathergoods.com",
 			"growleyleather": "https://www.growleyleather.com"
-		}
-	},
-	{
-		name: "deskmods",
-		bookmarks: {
-			"wallpaper access": "https://wallpaperaccess.com",
-			"simple desktops": "http://simpledesktops.com",
-			"pexels": "https://www.pexels.com",
-			"unsplash": "https://www.unsplash.com",
-			"wallpaperscraft": "https://wallpaperscraft.com",
-			"wallpaperflare": "https://www.wallpaperflare.com/"
 		}
 	}
 ]
