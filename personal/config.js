@@ -10,7 +10,7 @@ var cards = [
 	{
 		name: "daily",
 		bookmarks: {
-			"weather": "https://www.accuweather.com/en/us/new-carlisle/45344/current-weather/2086491",
+			"weather": "https://www.accuweather.com/en/us/new-carlisle/45344/weather-forecast/2086491",
 			"amazon": "https://smile.amazon.com",
 			"MugrageNet": "http://192.168.33.100/",
 			"ooma": "https://my.ooma.com/phone/voicemail",
