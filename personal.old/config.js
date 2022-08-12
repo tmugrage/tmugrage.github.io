@@ -10,7 +10,7 @@ var cards = [
 	{
 		name: "daily",
 		bookmarks: {
-			"weather": "https://www.accuweather.com/en/us/new-carlisle/45344/current-weather/2086491",
+			"weather": "https://www.accuweather.com/en/us/new-carlisle/45344/weather-forecast/2086491",
 			"amazon": "https://smile.amazon.com",
 			"MugrageNet": "http://192.168.33.100/",
 			"ooma": "https://my.ooma.com/phone/voicemail",
@@ -49,12 +49,10 @@ var cards = [
 			"onshape": "https://cad.onshape.com",
 			"thingiverse": "https://www.thingiverse.com",
 			"github": "https://github.com/",
-			"gitlab": "https://gitlab.com/tmugrage",
 			"pling": "https://pling.com",
 			"wallpaper access": "https://wallpaperaccess.com",
 			"simple desktops": "http://simpledesktops.com",
 			"pexels": "https://www.pexels.com",
-			"wallpaperscraft": "https://wallpaperscraft.com",
 			"wallpaperflare": "https://www.wallpaperflare.com/"
 		}
 	},
