@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@800&family=Ubuntu+Mono&display=swap");
+@import "/src/styles/variables.scss";
+@import "/src/styles/mixins.scss";
+
+:root {
+	@include font-inter;
+	line-height: 1.5;
+	font-weight: 400;
+
+	background-color: $appBackground;
+
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body,
+#root {
+	margin: 0;
+	padding: 0;
+
+	height: 100vh;
+}
+
+button {
+	padding: 0;
+	border: 0;
+	background: none;
+	box-shadow: none;
+}
+button:focus-visible {
+	outline: 3px solid $selectionColor;
+}
+button:active {
+	outline: none; // to prevent outline while hovering
+}
+
+* {
+	box-sizing: border-box;
+}
