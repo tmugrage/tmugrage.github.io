@@ -202,7 +202,7 @@ aside svg { height: 4.5rem; }
 .bigicon {
     margin-right: var(--spacing-s);
     height: 1rem;
-    scale: 200%;
+    scale: 150%;
 }
 
 #bookmarks a {
