@@ -199,6 +199,12 @@ aside svg { height: 4.5rem; }
     height: 1rem;
 }
 
+.bigicon {
+    margin-right: var(--spacing-s);
+    height: 1rem;
+    scale: 200%;
+}
+
 #bookmarks a {
     align-items: center;
     border-radius: 0.25rem;
