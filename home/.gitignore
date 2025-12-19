@@ -1,0 +1,14 @@
+# Build artifacts
+*.zip
+*.tar.gz
+sip-extension-build/
+
+# Store submission documents
+SUBMISSION_GUIDE.md
+RELEASE_NOTES_*.md
+
+# OS files
+.DS_Store
+
+# Node modules (if added in future)
+node_modules/
